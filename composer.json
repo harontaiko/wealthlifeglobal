@@ -1,0 +1,12 @@
+{
+    "name": "vendor/wealthlifeglobal",
+    "description": "a crypto currency trading and affiliate marketing site",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "harontaiko",
+            "email": "harontaiko@gmail.com"
+        }
+    ],
+    "require": {}
+}

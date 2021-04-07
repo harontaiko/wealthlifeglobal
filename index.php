@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" href="btc.png" type="image/x-icon">
-    <title>Company Title</title>
+    <title>Wealth Life Global</title>
 </head>
 
 <body>

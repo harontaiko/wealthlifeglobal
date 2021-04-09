@@ -18,6 +18,10 @@
             <h1>Coming Soon <span class="sm_title">in</span></h1>
             <div class="countdown"></div>
         </div>
+        <div class="early-access">
+            <a title="create account to get early access once the site is launched" class="early-access-btn" href="">Get
+                Early access</a>
+        </div>
     </section>
     <script src="landing.js"></script>
 </body>

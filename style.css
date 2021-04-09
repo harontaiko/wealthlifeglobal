@@ -135,7 +135,7 @@ body {
   position: relative;
 }
 
-.err {
+.mainbox .err {
   color: #ffffff;
   font-family: "Nunito Sans", sans-serif;
   font-size: 11rem;
@@ -144,7 +144,7 @@ body {
   top: 8%;
 }
 
-.far {
+.mainbox .far {
   position: absolute;
   font-size: 8.5rem;
   left: 42%;
@@ -152,7 +152,7 @@ body {
   color: #ffffff;
 }
 
-.err2 {
+.mainbox .err2 {
   color: #ffffff;
   font-family: "Nunito Sans", sans-serif;
   font-size: 11rem;
@@ -161,7 +161,7 @@ body {
   top: 8%;
 }
 
-.msg {
+.mainbox .msg {
   text-align: center;
   font-family: "Nunito Sans", sans-serif;
   font-size: 1.6rem;
@@ -171,12 +171,12 @@ body {
   width: 75%;
 }
 
-a {
+.mainbox a {
   text-decoration: none;
   color: white;
 }
 
-a:hover {
+.mainbox a:hover {
   text-decoration: underline;
 }
 @-webkit-keyframes glowing {

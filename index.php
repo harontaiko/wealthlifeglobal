@@ -19,7 +19,8 @@
             <div class="countdown"></div>
         </div>
         <div class="early-access">
-            <a title="create account to get early access once the site is launched" class="early-access-btn" href="">Get
+            <a title="create account to get early access once the site is launched" class="early-access-btn"
+                href="https://early-access.wealthlifeglobal.com/">Get
                 Early access</a>
         </div>
     </section>
